@@ -1,4 +1,4 @@
-# Network-Connectivity-Monitor (Connection.py)
+# Network-Connectivity-Monitor
 
 The `Connection.py` script is a Python program that monitors network connectivity, logs status changes, and assesses internet stability.
 
